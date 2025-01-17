@@ -12,5 +12,4 @@ Abri o Bing e escrevi o seguinte comando:
 
 ## 🚀 Resultados
 
-[Boneca] (https://github.com/Marly090880/lab-natty-or-not/blob/main/Boneca_Bing.jpeg)
-img (https://github.com/Marly090880/lab-natty-or-not/blob/main/Boneca_Bing.jpeg)
+[Boneca](https://github.com/Marly090880/lab-natty-or-not/blob/main/Boneca_Bing.jpeg)
